@@ -6,6 +6,15 @@ Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as t
 * Apache
 * PHP Version 7.1.33 or Newer
 * MySQL (with "goprekin" database present)
+# Features
+* Customer side
+  * Register/Login
+  * Information
+  * Order by clicking on a button
+* Manager Side
+  * Admin Login
+  * Adding/Removing Category/Product
+  * Checking Order ID and Details
 # Preview
 * Home Page
 <img src="./WebsiteImages/Home.jpg" width="50%" height="50%">
