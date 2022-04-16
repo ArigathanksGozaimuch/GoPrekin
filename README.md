@@ -1,7 +1,7 @@
-# RestroGirls
-
-A Simple Demo Resturant Management System Project in PHP
-
-Designed in Materializecss Refer : https://materializecss.com/
-
-A pure custom PHP Project. Build for reference!
+# GoPrekin
+A restaurant order registration system website that was made for college assignment. 
+Website is based on [RestroGirls](https://code-projects.org/online-restaurant-management-system-in-php-with-source-code/) template.
+# Server Requirements
+* XAMPP (Apache & MySQL)
+* PHP Version 7.1.33 or Newer
+# Preview
