@@ -30,3 +30,12 @@ Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as a
 
 * Order ID Generation
 <img src="./WebsiteImages/Order ID Generation.png" width="50%" height="50%">
+
+* Admin Dashboard
+<img src="./WebsiteImages/Admin Dashboard.png" width="50%" height="50%">
+
+* Data Input
+<img src="./WebsiteImages/Food Data Input.png" width="50%" height="50%">
+
+* Order Data
+<img src="./WebsiteImages/Orders Data.jpg" width="50%" height="50%">
