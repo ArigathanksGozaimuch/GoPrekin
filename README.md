@@ -1,6 +1,6 @@
 # GoPrekin
 A restaurant order registration system website that was made for college assignment. 
-Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as template.
+Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as a base template.
 [Full documentation](https://github.com/ArigathanksGozaimuch/GoPrekin/blob/master/Documentation.pdf) (in Bahasa) can be seen in a PDF Document File.
 # Server Requirements
 * Apache
