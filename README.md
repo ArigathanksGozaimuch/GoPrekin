@@ -6,4 +6,4 @@ Website is based on [RestroGirls](https://code-projects.org/online-restaurant-ma
 * PHP Version 7.1.33 or Newer
 # Preview
 * Home Page
-![Home](./WebsiteImages/Home.jpg)
+<img src="./WebsiteImages/Home.jpg" width="674" height="1597">
