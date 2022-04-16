@@ -8,7 +8,9 @@ Website is based on [RestroGirls](https://code-projects.org/online-restaurant-ma
 # Preview
 * Home Page
 <img src="./WebsiteImages/Home.jpg" width="50%" height="50%">
+
 * About Page
 <img src="./WebsiteImages/About.jpg" width="50%" height="50%">
+
 * Category Page
 <img src="./WebsiteImages/Category.jpg" width="50%" height="50%">
