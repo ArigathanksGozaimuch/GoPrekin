@@ -15,3 +15,9 @@ Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as t
 
 * Category Page
 <img src="./WebsiteImages/Category.jpg" width="50%" height="50%">
+
+* Food List
+<img src="./WebsiteImages/Food List.jpg" width="50%" height="50%">
+
+* Order ID Generation
+<img src="./WebsiteImages/Order ID Generation.png" width="50%" height="50%">
