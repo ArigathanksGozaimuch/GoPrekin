@@ -5,7 +5,7 @@ Website is based on [RestroGirls](https://github.com/samprits5/RestroGirls) as a
 # Server Requirements
 * Apache
 * PHP Version 7.1.33 or Newer
-* MySQL (with "goprekin" database present)
+* MySQL (with "[goprekin](https://github.com/ArigathanksGozaimuch/GoPrekin/blob/master/goprekin.sql)" database present)
 # Features
 * Customer side
   * Register/Login
